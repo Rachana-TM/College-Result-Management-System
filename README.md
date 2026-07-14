@@ -26,4 +26,8 @@ A web-based application developed to simplify the management of student academic
 - **Database**: MongoDB
 - **Version Control**: Git
 
+## Screenshot
+![image alt](https://github.com/Rachana-TM/College-Result-Management-System/blob/07310b3e06c3f4ea2e1e5b0b7de80abdeec4827e/Screenshot%20(194).png)
+
+
 
