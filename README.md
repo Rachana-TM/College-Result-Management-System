@@ -19,24 +19,11 @@ A web-based application developed to simplify the management of student academic
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-
-Backend
-- PHP
-
-Database
-- MySQL
-
-Tools
-- XAMPP
-- phpMyAdmin
-- VS Code
-
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Version Control**: Git
 
 
