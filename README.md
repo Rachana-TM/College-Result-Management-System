@@ -40,31 +40,3 @@ Tools
 
 
 
-
-  College-Result-Management-System/
-│
-├── assets/
-│   ├── screenshots/
-│   │   ├── login.png
-│   │   ├── dashboard.png
-│   │   ├── add-student.png
-│   │   ├── results.png
-│   │   └── analytics.png
-│   │
-│   └── logo.png
-│
-├── database/
-│   └── crms.sql
-│
-├── css/
-├── js/
-├── images/
-├── admin/
-├── student/
-├── includes/
-├── index.php
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── .gitignore
-└── requirements.txt (only if using Python)
